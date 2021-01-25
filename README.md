@@ -1,4 +1,4 @@
-![test]("./assets/Header.png?raw=true "Title"") 
+![]("./assets/Header.png") 
 
 ### Welcome travelers! 👋
 #### My name is Giorgos Topsis.
