@@ -1,4 +1,4 @@
-![]("./assets/Header.png") 
+![]("assets/Header.png") 
 
 ### Welcome travelers! 👋
 #### My name is Giorgos Topsis.
