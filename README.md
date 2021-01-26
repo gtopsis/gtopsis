@@ -8,7 +8,6 @@ I am a performance-driven full stack web developer with a focus on the design an
 #### My skills
 ```
 const giorgos = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS", "Java"],
     askMeAbout: ["web dev", "app dev", "tango dance"],
     technologies: {
@@ -17,15 +16,16 @@ const giorgos = {
             css: ["Vuetify", "Bootstrap", Foundation Sites]
         },
         backEnd: {
-            js: ["Node.", "express", "OpenAPI spec and tools"],                         
+            js: ["Node.", "express", "OpenAPI 3 spec and tools"],                         
             databases: ["Mongo", "MySql"]   
         },
-
+        UX: {
+            methodologies: ["User-Centred Design", "Heuristic Evaluation"],
+            tools: ["Gravid Designer", "Invision", "Presentator"],
+        }
         misc: ["Socket.IO", "Mongoose"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentlyLearning: "Tailwind CSS",
 }
 
 ```
