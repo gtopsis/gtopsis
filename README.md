@@ -6,7 +6,7 @@
 I am a performance-driven full stack web developer with a focus on the design and implementation of usable and interactive web platforms. Having over one year of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. Skilled in back and front end development as well as familiar with User Experience best methods and principles.
 
 #### My skills
-```
+```js
 const giorgos = {
     code: ["Javascript", "HTML", "CSS", "Java"],
     askMeAbout: ["web dev", "app dev", "tango dance"],
