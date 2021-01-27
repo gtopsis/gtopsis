@@ -43,33 +43,23 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 
 ### Back End:
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/>
-<img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=black"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=black"/>
 
 <br>
 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### UX methodologies and Tools:
 
-<img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
-<img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
+<img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
 
 <br>
 
-<img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/>
-<img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/>
-<img alt="gravid designer" src ="https://img.shields.io/badge/gravid designer-%234ea94b.svg?&style=for-the-badge&logo=gravid designer&logoColor=white"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/> <img alt="gravid designer" src ="https://img.shields.io/badge/gravid designer-%234ea94b.svg?&style=for-the-badge&logo=gravid designer&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
 ### Misc
 
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <!--
 ```js
