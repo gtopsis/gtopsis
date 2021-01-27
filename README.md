@@ -57,7 +57,11 @@ const giorgos = {
 <br />
 <br />
 
----
-
 [website]: https://gtopsis.github.io
 [linkedin]: https://linkedin.com/in/gtopsis
+
+---
+
+![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true)
+
+
