@@ -62,6 +62,6 @@ const giorgos = {
 
 ---
 
-![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true)
+![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true&show_icons=true?theme=merco))
 
 
