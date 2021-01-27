@@ -16,12 +16,12 @@ const giorgos = {
     askMeAbout: ["web dev", "app dev", "tango dance"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "AngularJS (1.6)"],
+            js: ["Vue.js", "AngularJS (1.6)"],
             css: ["Vuetify", "Bootstrap", Foundation Sites]
         },
         backEnd: {
-            js: ["Node.", "express", "OpenAPI 3 spec and tools"],
-            databases: ["Mongo", "MySql"]
+            js: ["Node.js", "Express.js", "OpenAPI 3 spec and tools"],
+            databases: ["MongoDB", "MySql"]
         },
         UX: {
             methodologies: ["User-Centred Design", "Heuristic Evaluation"],
