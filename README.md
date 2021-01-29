@@ -90,12 +90,10 @@ const giorgos = {
 
 
 -->
-<br />
-<br />
 
 ---
 
-![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true&show_icons=true?theme=merko))
+![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true&show_icons=true?theme=merko)
 
 [website]: https://gtopsis.github.io
 [linkedin]: https://linkedin.com/in/gtopsis
