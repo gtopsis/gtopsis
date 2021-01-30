@@ -93,7 +93,7 @@ const giorgos = {
 
 ---
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true&show_icons=true&theme=highcontrast)
+![Topsis's github stats](https://github-readme-stats.vercel.app/api?username=gtopsis&count_private=true&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&theme=highcontrast)
 
 [website]: https://gtopsis.github.io
 [linkedin]: https://linkedin.com/in/gtopsis
