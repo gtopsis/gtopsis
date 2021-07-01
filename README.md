@@ -12,7 +12,7 @@ I am a performance-driven full stack web developer with a focus on the design an
 - 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
 
 <h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/gtopsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/gtopsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis linkedin profile" height="20" width="30" /></a>
 </h3>
 
 ## My skills
@@ -43,7 +43,6 @@ src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badg
 src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
 <img alt="Foundation sites"
 src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
-
 <br/>
 
 #### Back End:
@@ -51,7 +50,6 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <br/>
 
 #### UX methodologies and Tools:
@@ -59,7 +57,6 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 <img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
 
 <img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/> <img alt="gravid designer" src ="https://img.shields.io/badge/figma-%23010101.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
 <br/>
 
 #### Misc
