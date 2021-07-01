@@ -11,14 +11,13 @@ I am a performance-driven full stack web developer with a focus on the design an
 
 - 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a
+<h3 align="left">Connect with me:</h3> <a
+
  href="https://linkedin.com/in/gtopsis" target="blank"><img 
+
 align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
- alt="gtopsis" height="30" width="40" /></a>
-</p>
+
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis" height="20" width="30" /></a>
 
 ## My skills
 
@@ -51,7 +50,7 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 
 <br/>
 
-### Back End:
+#### Back End:
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
 
@@ -59,7 +58,7 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 
 <br/>
 
-### UX methodologies and Tools:
+#### UX methodologies and Tools:
 
 <img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
 
@@ -67,7 +66,7 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 
 <br/>
 
-### Misc
+#### Misc
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
