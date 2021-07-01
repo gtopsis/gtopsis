@@ -1,4 +1,4 @@
-<img src="assets/Header.png" width="100%">
+<img src="assets/header_piramida_21_05_2020.jpeg" width="100%">
 
 <br/><br/>
 
