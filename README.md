@@ -11,9 +11,7 @@ I am a performance-driven full stack web developer with a focus on the design an
 
 - 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
 
-<h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/gtopsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis linkedin profile" height="20" width="30" /></a>
-</h3>
+- 🔗 Connect with me: <a href="https://linkedin.com/in/gtopsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis linkedin profile" height="20" width="30" /></a>
 
 ## My skills
 
