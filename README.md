@@ -1,6 +1,6 @@
 <img src="assets/header_piramida_21_05_2020.jpeg" width="100%">
 
-<br/><br/>
+<br/>
 
 <h1 align="center">Welcome travelers, I'm Giorgos 👋</h1>
 <h3 align="center">A full stack developer from Greece</h3>
@@ -11,13 +11,9 @@ I am a performance-driven full stack web developer with a focus on the design an
 
 - 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
 
-<h3 align="left">Connect with me:</h3> <a
-
- href="https://linkedin.com/in/gtopsis" target="blank"><img 
-
-align="center" 
-
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis" height="20" width="30" /></a>
+<h3 align="left">Connect with me:
+<a href="https://linkedin.com/in/gtopsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtopsis" height="20" width="30" /></a>
+</h3>
 
 ## My skills
 
