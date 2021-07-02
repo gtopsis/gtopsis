@@ -92,6 +92,7 @@ const giorgos = {
 ---
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtopsis&show_icons=true&locale=en&layout=compact" alt="gtopsis" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&locale=en" alt="gtopsis" /></p>
 
 [website]: https://gtopsis.github.io
