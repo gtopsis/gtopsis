@@ -7,7 +7,7 @@
 
 I am a performance-driven full stack web developer with a focus on the design and implementation of usable and interactive web platforms. Having two years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. Skilled in back and front end development as well as familiar with User Experience best methods and principles.
 
-- 🌱 I’m currently learning **Nuxt.js**
+- 🌱 I’m currently learning **Nuxt.js** (building my personal website)
 
 - 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
 
