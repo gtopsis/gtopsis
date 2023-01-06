@@ -13,7 +13,7 @@ I am a performance-driven full stack web developer with a focus on the design an
 
 - 🔗 Connect with me: <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
-## My skills
+## I have played with the following "goodies"
 
 ### Programming Languages:
 
@@ -28,6 +28,13 @@ src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&lo
 <br>
 
 ### Frameworks and Libraries
+
+#### Back End:
+
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
 
 #### Front End:
 
@@ -44,12 +51,6 @@ src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&
 src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
 <br/>
 
-#### Back End:
-
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
-
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<br/>
 
 #### UX methodologies and Tools:
 
