@@ -33,7 +33,10 @@ src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&lo
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="OpenAPI spec and tools" src="https://img.shields.io/badge/OpenAPI%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/> <img alt="socketio" src="https://img.shields.io/badge/socketio%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
 
+
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <br/>
 
 #### Front End:
