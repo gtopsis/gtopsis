@@ -61,38 +61,6 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 <img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/> <img alt="gravid designer" src ="https://img.shields.io/badge/figma-%23010101.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <br/>
 
-#### Misc
-
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-<!--
-```js
-const giorgos = {
-    code: ["Javascript", "HTML", "CSS", "Java"],
-    askMeAbout: ["web dev", "app dev", "tango dance"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue.js", "AngularJS (1.6)"],
-            css: ["Vuetify", "Bootstrap", Foundation Sites]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "OpenAPI 3 spec and tools"],
-            databases: ["MongoDB", "MySql"]
-        },
-        UX: {
-            methodologies: ["User-Centred Design", "Heuristic Evaluation"],
-            tools: ["Gravid Designer", "Invision", "Presentator"],
-        }
-        misc: ["Socket.IO", "Mongoose"]
-    },
-    currentlyLearning: "Tailwind CSS",
-}
-
-```
-
-
--->
-
 ---
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtopsis&show_icons=true&locale=en&layout=compact" alt="gtopsis" /></p>
