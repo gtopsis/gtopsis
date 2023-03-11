@@ -51,8 +51,8 @@ src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badg
 src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
 <img alt="Foundation sites"
 src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
-<br/>
 
+<br/>
 
 #### UX methodologies and Tools:
 
