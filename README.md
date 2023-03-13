@@ -58,7 +58,7 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 
 <img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
 
-<img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/> <img alt="gravid designer" src ="https://img.shields.io/badge/figma-%23010101.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/>
 <br/>
 
 ---
