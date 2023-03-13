@@ -62,8 +62,8 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 <br/>
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&bg_color=fdfbfb,ebedee,43deg)](https://github.com/gtopsis/github-readme-stats&show_icons=true&bg_color=fdfbfb,ebedee,43deg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=fdfbfb,ebedee,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=fdfbfb,ebedee,43deg)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
 
 [website]: https://gtopsis.github.io
 [linkedin]: https://linkedin.com/in/gtopsis
