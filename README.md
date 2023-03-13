@@ -9,7 +9,7 @@ I am a software engineer with a focus on the design and implementation of usable
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my personal website)
 
-- 👨‍💻 All of my projects are available at [https://gtopsis.github.io](https://gtopsis.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://gtopsis.github.io" target="blank">Website</a>
 
 - 🔗 Connect with me: <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
