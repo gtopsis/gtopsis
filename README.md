@@ -62,6 +62,8 @@ src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-t
 <br/>
 
 ---
+[![Topsis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&bg_color=#4158D0,#C850C0,43deg)](https://github.com/gtopsis/github-readme-stats)
+
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtopsis&show_icons=true&locale=en&layout=compact" alt="gtopsis" /></p>
 
