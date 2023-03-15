@@ -3,15 +3,16 @@
 <br/>
 
 <h1 align="center">Welcome travelers, I'm Giorgos 👋</h1>
-<h3 align="center">A full stack web developer from Greece</h3>
+<h3 align="center">A software engineer, playing with the web technologies, from Greece</h3>
 
-I am a software engineer with a focus on the design and implementation of usable and interactive web platforms. Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. Skilled in back and front end development as well as familiar with User Experience best methods and principles.
+I am a software engineer with a focus on the design and implementation of usable and interactive web platforms. Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my personal website)
 
 - 👨‍💻 All of my projects are available at <a href="https://gtopsis.github.io" target="blank">Website</a>
 
 - 🔗 Connect with me: <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
+
 
 ## I have played with the following "goodies"
 
