@@ -5,7 +5,7 @@
 <h1 align="center">Welcome travelers, I'm Giorgos 👋</h1>
 <h3 align="center">A software engineer, playing with the web technologies, from Greece</h3>
 
-I am a software engineer with a focus on the design and implementation of usable and interactive web platforms. Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
+Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my personal website)
 
