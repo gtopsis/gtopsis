@@ -46,12 +46,12 @@ src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&lo
 <img alt="Angular.js"
 src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
 
-<img alt="Bootstrap"
-src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Vuetify"
 src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
-<img alt="Foundation sites"
-src="https://img.shields.io/badge/foundation sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
+<img alt="Bootstrap"
+src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Foundation for sites"
+src="https://img.shields.io/badge/foundation for sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
 
 <br/>
 
