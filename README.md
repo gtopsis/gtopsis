@@ -27,7 +27,6 @@ Having more than 3 years of work experience and a strong educational background 
   src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </details>
   
-<br>
 
 ### Frameworks and Libraries
 
@@ -40,7 +39,6 @@ Having more than 3 years of work experience and a strong educational background 
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </details>
 
-<br/>
 
 <details>
   <summary>Front End</summary>
@@ -58,7 +56,6 @@ Having more than 3 years of work experience and a strong educational background 
   src="https://img.shields.io/badge/foundation for sites%20-%2314679e.svg?&style=for-the-badge&logo=foundationSites&logoColor=white"/>
 </details>
 
-<br/>
 
 <details>
   <summary>UX methodologies and Tools</summary>
