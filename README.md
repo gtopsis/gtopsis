@@ -16,9 +16,9 @@ Having more than 3 years of work experience and a strong educational background 
 
 ## Demos of some personal projects
 
-- Website for FM radio station of UoC: [demo](https://gtopsis.github.io/Uoc-radio-website/index.html)
-- Loan calculator app: [demo](https://gtopsis.github.io/loan-calculator/) 
-- Website for the course cs352 at UoC: [demo](https://gtopsis.github.io/Course-cs352-website/)
+- Website for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a>
+- Loan calculator app: <a href="https://gtopsis.github.io/loan-calculator/" target="_blank">Demo</a>
+- Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a>
 
 ## I have played with the following "goodies"
 
