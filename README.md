@@ -11,7 +11,7 @@ Having more than 3 years of work experience and a strong educational background 
 
 - 👨‍💻 All of my projects are available at <a href="https://gtopsis.github.io" target="blank">Website</a>
 
-- 🔗 Connect with me: <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
+- 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
 
 ## Demos of some personal projects
