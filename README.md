@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
-Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
+Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment awesome technologies and random ideas, crafting small apps for fun.
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my personal website)
 
@@ -25,7 +25,7 @@ Having more than 3 years of work experience and a strong educational background 
   <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a>
   </li>
   </ul>
-  <h6 align="center">Find more (shy) projects on the list of repositories</h6>
+  <h6 align="center">Some personal projects are shy, but you could find them below in the list of pinned repositories</h6>
   </td>
   
   <td width="50%" valign="top">
