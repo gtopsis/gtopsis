@@ -30,7 +30,6 @@ Having more than 3 years of work experience and a strong educational background 
   <td width="50%" valign="top">
 <h3 dir="auto" align="center">❤️ Open Source &amp; Community</h3>
     <p>I use and enjoy Open Source software daily, from my OS to several apps. So, I try to contribute back to the community.</p>
-<br>
 <ul dir="auto">
 <li>
   Translated app <a href="https://apps.gnome.org/app/io.github.seadve.Mousai/" target="_blank">Mousai</a> in Greek (<a href="https://hosted.weblate.org/projects/kooha/mousai/el/" target="_blank">translation page</a>)
