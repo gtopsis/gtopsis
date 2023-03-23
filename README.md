@@ -48,7 +48,7 @@ Having more than 3 years of work experience and a strong educational background 
 <h3 align="center">I have played with the following "goodies"</h3>
 
 <details>
-  <summary> Programming Languages </summary>
+  <summary>Programming Languages</summary>
   
   <img alt="TypeScript"
   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
