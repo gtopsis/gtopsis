@@ -2,7 +2,8 @@
 
 <br/>
 
-<h1 align="center">Welcome travelers, I'm Giorgos 👋</h1>
+<h1 align="center">Welcome travelers, I'm Giorgos <img src="assets/512.gif" width="28x"/>
+</h1>
 <h3 align="center">A software engineer, playing with the web technologies, from Greece</h3>
 
 Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
@@ -14,6 +15,7 @@ Having more than 3 years of work experience and a strong educational background 
 - 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
 
+<h1 align="center">
 ## Demos of some personal projects
 
 - Website for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a>
