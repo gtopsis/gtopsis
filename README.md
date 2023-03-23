@@ -2,7 +2,7 @@
 
 <br/>
 
-<h1 align="center">Welcome travelers, I'm Giorgos <img src="assets/512.gif" width="28x"/>
+<h1 align="center">Welcome travelers, I'm Giorgos <img src="assets/balloon.webp" width="28x"/>
 </h1>
 <h3 align="center">A software engineer, playing with the web technologies, from Greece</h3>
 
