@@ -25,6 +25,7 @@ Having more than 3 years of work experience and a strong educational background 
   <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a>
   </li>
   </ul>
+  <h6 align="center">Find more (shy) projects on the list of repositories</h6>
   </td>
   
   <td width="50%" valign="top">
