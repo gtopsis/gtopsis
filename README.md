@@ -2,9 +2,9 @@
 
 <br/>
 
-<h1 align="center">Welcome travelers, I'm Giorgos <img src="assets/balloon.webp" width="28x"/>
+<h1 align="center">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/>
 </h1>
-<h3 align="center">A software engineer, playing with the web technologies, from Greece</h3>
+<h3 align="center">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
 Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. 
 
@@ -15,17 +15,16 @@ Having more than 3 years of work experience and a strong educational background 
 - 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
 
-<h1 align="center">
-## Demos of some personal projects
+<h3 align="center">Demos of some personal projects</h3>
 
 - Website for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a>
 - Loan calculator app: <a href="https://gtopsis.github.io/loan-calculator/" target="_blank">Demo</a>
 - Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a>
 
-## I have played with the following "goodies"
+<h3 align="center">I have played with the following "goodies"</h3>
 
 <details>
-  <summary> *Programming Languages*</summary>
+  <summary> Programming Languages </summary>
   
   <img alt="TypeScript"
   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -35,9 +34,6 @@ Having more than 3 years of work experience and a strong educational background 
   src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </details>
   
-
-### Frameworks and Libraries
-
 <details>
   <summary>Back End</summary>
   
