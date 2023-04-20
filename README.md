@@ -6,11 +6,11 @@
 </h1>
 <h3 align="center">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
-Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment awesome technologies and random ideas, crafting small apps for fun.
+Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my personal website)
 
-- 👨‍💻 All of my projects are available at <a href="https://gtopsis.github.io" target="blank">Website</a>
+- 👨‍💻 Visit my website at <a href="https://gtopsis.github.io" target="blank">Website</a>
 
 - 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
