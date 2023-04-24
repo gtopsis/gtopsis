@@ -2,8 +2,7 @@
 
 <br/>
 
-<h1 align="center">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/>
-</h1>
+<h1 align="center">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
 <h3 align="center">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
 Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
@@ -17,31 +16,34 @@ Having more than 3 years of work experience and a strong educational background 
 <br/>
 
 <table>
-<tbody><tr><td width="50%" valign="top">
-<h3 dir="auto" align="center">💪 Personal projects</h3>
-<ul dir="auto">
-  <li>Loan calculator app: <a href="https://gtopsis.github.io/loan-calculator/" target="_blank">Demo</a></li>
-  <li>Website(showcase) for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a></li>
-  <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a>
-  </li>
-  </ul>
-  <h6 align="center">Some personal projects are shy, but you could find them below in the list of pinned repositories</h6>
-  </td>
+<tbody>
+  <tr>
+    <td width="50%" valign="top">
+    <h3 dir="auto" align="center">💪 Personal projects</h3>
+    <ul dir="auto">
+      <li>Loan calculator app: <a href="https://gtopsis.github.io/loan-calculator/" target="_blank">Demo</a></li>
+      <li>Website(showcase) for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a></li>
+      <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a></li>
+    </ul>
+    <h6 align="center">Some personal projects are shy, but you could find them below in the list of pinned repositories</h6>
+    </td>
   
-  <td width="50%" valign="top">
-<h3 dir="auto" align="center">❤️ Open Source &amp; Community</h3>
-    <p>I use and enjoy Open Source software daily, from my OS to several apps. So, I try to contribute back to the community.</p>
-<ul dir="auto">
-<li>
-  Translated app <a href="https://apps.gnome.org/app/io.github.seadve.Mousai/" target="_blank">Mousai</a> in Greek (<a href="https://hosted.weblate.org/projects/kooha/mousai/el/" target="_blank">translation</a>)
-</li>
-<li>
-  Translating app <a href="https://presentator.io/" target="_blank">Presentator</a> in Greek (<a href="https://www.transifex.com/presentatorio" target="_blank">translation</a>)
-</li>
-</ul>
-<br>
-
-</td></tr></tbody></table>
+    <td width="50%" valign="top">
+      <h3 dir="auto" align="center">❤️ Open Source &amp; Community</h3>
+      <p>I use and enjoy Open Source software daily, from my OS to several apps. So, I try to contribute back to the community.</p>
+      <ul dir="auto">
+        <li>
+          Translated app <a href="https://apps.gnome.org/app/io.github.seadve.Mousai/" target="_blank">Mousai</a> in Greek (<a href="https://hosted.weblate.org/projects/kooha/mousai/el/" target="_blank">translation</a>)
+        </li>
+        <li>
+          Translating app <a href="https://presentator.io/" target="_blank">Presentator</a> in Greek (<a href="https://www.transifex.com/presentatorio" target="_blank">translation</a>)
+        </li>
+      </ul>
+      <br>  
+    </td>
+  </tr>
+</tbody>
+</table>
 
 <br/>
 
