@@ -26,8 +26,7 @@ Having more than 3 years of work experience and a strong educational background 
         <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a></li>
       </ul>
       <h6 align="center">Some personal projects are shy, but you could find them below in the list of pinned repositories</h6>
-    </td>  
-    
+    </td>
     <td width="50%" valign="top">
       <h3 dir="auto" align="center">❤️ Open Source &amp; Community</h3>
       <p>I use and enjoy Open Source software daily, from my OS to several apps. So, I try to contribute back to the community.</p>
