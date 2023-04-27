@@ -7,9 +7,9 @@
 
 Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
 
-- 🌱 I’m currently learning **TypeScript** and **Nuxt.js**
+- 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my <a href="https://gtopsis.github.io" target="blank">website</a>)
 
-- 👨‍💻 Visit <a href="https://gtopsis.github.io" target="blank">website</a>
+- 👨‍💻 Currently reading <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108" target="blank">The Design of Web APIs</a> by Arnaud Lauret.
 
 - 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
