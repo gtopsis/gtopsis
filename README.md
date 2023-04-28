@@ -88,7 +88,7 @@ Having more than 3 years of work experience and a strong educational background 
 <details>
   <summary>UX methodologies and Tools 👈</summary>
   
-  <img alt="user centred design" src ="https://img.shields.io/badge/user centred design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
+  <img alt="user-centered design" src ="https://img.shields.io/badge/user centered design-%236441A4.svg?&style=for-the-badge&logoColor=white"/> <img alt="heuristic evaluation" src ="https://img.shields.io/badge/heuristic evaluation-%236441A4.svg?&style=for-the-badge&logoColor=white"/>
 
   <img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/>
 </details>
