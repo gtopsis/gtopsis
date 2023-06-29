@@ -21,8 +21,8 @@ Having more than 3 years of work experience and a strong educational background 
     <td width="50%" valign="top">
       <h3 dir="auto" align="center">💪 Personal projects</h3>
       <ul dir="auto">
+        <li>Health exams aggregator for PAGNI: <a href="https://github.com/gtopsis/PAGNI-health-exams-aggregator" target="_blank">Demo</a></li>
         <li>Loan calculator app: <a href="https://gtopsis.github.io/loan-calculator/" target="_blank">Demo</a></li>
-        <li>Website(showcase) for FM radio station of UoC: <a href="https://gtopsis.github.io/Uoc-radio-website/index.html" target="_blank">Demo</a></li>
         <li>Website for the course cs352 at UoC: <a href="https://gtopsis.github.io/Course-cs352-website/" target="_blank">Demo</a></li>
       </ul>
       <h6 align="center">Some personal projects are shy, but you could find them below in the list of pinned repositories</h6>
