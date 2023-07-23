@@ -9,7 +9,7 @@ Having more than 3 years of work experience and a strong educational background 
 
 - 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my <a href="https://gtopsis.github.io" target="blank">website</a>)
 
-- 👨‍💻 This period I'm reading (on a really slow pase) <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108" target="blank">The Design of Web APIs</a> by Arnaud Lauret.
+- 👨‍💻 This period I'm reading (on a really slow pace) <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108" target="blank">The Design of Web APIs</a> by Arnaud Lauret.
 
 - 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
 
