@@ -2,8 +2,8 @@
 
 <br/>
 
-<h1 align="center">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
-<h3 align="center">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
+<h1 align="center" style="color: white">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
+<h3 align="center" style="color: white">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
 Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
 
