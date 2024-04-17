@@ -82,7 +82,7 @@ Having more than 3 years of work experience and a strong educational background 
   <img alt="Vuetify"
   src="https://img.shields.io/badge/vuetify%20-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
   <img alt="TailwindCSS"
-  src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+  src="https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss"/>
   <img alt="Bootstrap"
   src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Foundation for sites"
