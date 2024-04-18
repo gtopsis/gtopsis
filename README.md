@@ -5,9 +5,9 @@
 <h1 align="center" style="color: white">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
 <h3 align="center" style="color: white">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
-Having more than 3 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
+Having more than 4 years of work experience and a strong educational background in Information Systems and Human Computer Interaction fields I continuously learning how to develop user-friendly and cutting-edge engineering solutions. In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
 
-- 🌱 I’m currently learning **TypeScript** and **Nuxt.js** (building my <a href="https://gtopsis.github.io" target="blank">website</a>)
+- 🌱 I’m currently learning how to test UI components with **Vitest** and build SPA apps with **Nuxt.js** (built my <a href="https://gtopsis.github.io" target="blank">website</a>)
 
 - 👨‍💻 This period I'm reading (on a really slow pace) <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108" target="blank">The Design of Web APIs</a> by Arnaud Lauret.
 
