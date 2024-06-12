@@ -46,8 +46,11 @@ Having more than 4 years of work experience and a strong educational background 
 
 <br/>
 
-<h3 align="center">I have played with the following "goodies"</h3>
+<h3 align="center">I have played with the following "<a href="https://stackshare.io/gforerasmus/familiar-with-the-following-stack">goodies</a>"</h3>
 
+<h4 align="center"></h4>
+
+<!---
 <details>
   <summary>Programming Languages 👈</summary>
   
@@ -97,6 +100,8 @@ Having more than 4 years of work experience and a strong educational background 
 
   <img alt="invision" src ="https://img.shields.io/badge/invisiion-%23FF3366.svg?&style=for-the-badge&logo=invision&logoColor=white"/> <img alt="presentator.io" src ="https://img.shields.io/badge/presentator.io-%234ea94b.svg?&style=for-the-badge&logo=presentator.io&logoColor=white"/>
 </details>
+
+-->
 
 <br/>
 
