@@ -46,7 +46,9 @@ Having more than 4 years of work experience and a strong educational background 
 
 <br/>
 
-<h3 align="center">I have played with the following "<a href="https://stackshare.io/gforerasmus/familiar-with-the-following-stack">goodies</a>"</h3>
+<h3 align="center">I have played with the following "<a href="https://stackshare.io/gforerasmus/familiar-with-the-following-stack">goodies" 
+  <img src="https://www.svgrepo.com/show/354387/stackshare.svg" alt="StackShare app" style="height: 24px; width:24px;"/></a>
+</h3>
 
 <h4 align="center"></h4>
 
