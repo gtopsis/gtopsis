@@ -33,6 +33,12 @@ Having more than 4 years of work experience and a strong educational background 
       <p>I use and enjoy Open Source software daily, from my OS to several apps. So, I try to contribute back to the community.</p>
       <ul dir="auto">
         <li>
+          Extension <a href="https://github.com/keybraker/reSkroutzed">reSkroutzed</a>: a browser extension that detects and highlights sponsored products on skroutz.gr
+        </li>
+        <li>
+          <a href="https://github.com/devstaff-crete/devstaff-draw">devstaff-draw</a>
+        </li>
+        <li>
           Translated app <a href="https://apps.gnome.org/app/io.github.seadve.Mousai/" target="_blank">Mousai</a> in Greek (<a href="https://hosted.weblate.org/projects/kooha/mousai/el/" target="_blank">translation</a>)
         </li>
         <li>
