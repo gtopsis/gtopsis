@@ -11,8 +11,6 @@ Having more than 4 years of work experience and a strong educational background 
 
 - 👨‍💻 This period I'm reading (on a really slow pace) <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108" target="blank">The Design of Web APIs</a> by Arnaud Lauret.
 
-- 🔗 Connect with me on <a href="https://linkedin.com/in/gtopsis" target="blank">LinkedIn</a>
-
 <br/>
 
 <table>
