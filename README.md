@@ -52,9 +52,12 @@ Having more than 4 years of work experience and a strong educational background 
 
 <br/>
 
-<h3 align="center">I have played with the following "<a href="https://stackshare.io/gforerasmus/familiar-with-the-following-stack">goodies" 
-  <img src="https://www.svgrepo.com/show/354387/stackshare.svg" alt="StackShare app" style="height: 24px; width:24px;"/></a>
-</h3>
+<!--- <img src="https://www.svgrepo.com/show/354387/stackshare.svg" alt="StackShare app" style="height: 24px; width:24px;"/> -->
+
+<h3 align="left">I have played with the following "goodies"</h3>
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gforerasmus/familiar-with-the-following-stack)
+
 
 <h4 align="center"></h4>
 
