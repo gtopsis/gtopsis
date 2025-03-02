@@ -119,9 +119,9 @@ In my playground here, I try to experiment with awesome technologies and random 
 <br/>
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtopsis&theme=default) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)
 
 [website]: https://gtopsis.github.io
