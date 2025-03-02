@@ -57,8 +57,6 @@ In my playground here, I try to experiment with awesome technologies and random 
 
 <!--- <img src="https://www.svgrepo.com/show/354387/stackshare.svg" alt="StackShare app" style="height: 24px; width:24px;"/> -->
 
-<h3 align="left">I have played with the following "goodies"</h3>
-
 
 
 <h4 align="center"></h4>
@@ -121,7 +119,6 @@ In my playground here, I try to experiment with awesome technologies and random 
 ---
  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&show_icons=true&bg_color=f5f7fa,c3cfe2,43deg)
 
 [website]: https://gtopsis.github.io
