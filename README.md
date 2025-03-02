@@ -5,6 +5,11 @@
 <h1 align="center" style="color: white">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
 <h3 align="center" style="color: white">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
 
+<div align="center">
+
+[![StackShare](http://img.shields.io/badge/Tech-Stack-0690fa.svg?style=flat)](https://stackshare.io/gforerasmus/familiar-with-the-following-stack)
+</div>
+
 In my playground here, I try to experiment with awesome technologies and random ideas, crafting small apps for fun.
 
 - 🌱 I’m currently learning how to test UI components with **Vitest** and build SPA apps with **Nuxt.js** (built my <a href="https://gtopsis.github.io" target="blank">website</a>)
@@ -54,7 +59,6 @@ In my playground here, I try to experiment with awesome technologies and random 
 
 <h3 align="left">I have played with the following "goodies"</h3>
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gforerasmus/familiar-with-the-following-stack)
 
 
 <h4 align="center"></h4>
