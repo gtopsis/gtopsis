@@ -113,7 +113,13 @@ In my playground here, I try to experiment with awesome technologies and random 
 
 <br/>
  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtopsis&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gtopsis&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtopsis&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gtopsis&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtopsis&theme=holi&utcOffset=0)
+
+
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=gtopsis)](https://github.com/stats-organization/github-stats-extended)
 
 Credits: 
