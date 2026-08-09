@@ -114,11 +114,11 @@ In my playground here, I try to experiment with awesome technologies and random 
 <br/>
  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtopsis&bg_color=f5f7fa,c3cfe2,43deg)](https://github.com/gtopsis/github-readme-stats&bg_color=f5f7fa,c3cfe2,43deg)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gtopsis&show_icons=true&theme=default)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=gtopsis)](https://github.com/stats-organization/github-stats-extended)
 
 Credits: 
 1. https://github-profile-summary-cards.vercel.app/demo.html
-2. https://github.com/anuraghazra/github-readme-stats
+2. https://github.com/stats-organization/github-stats-extended
    
 [website]: https://gtopsis.github.io
 [linkedin]: https://linkedin.com/in/gtopsis
