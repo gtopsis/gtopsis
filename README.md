@@ -116,8 +116,6 @@ In my playground here, I try to experiment with awesome technologies and random 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtopsis&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gtopsis&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtopsis&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gtopsis&theme=holi)
-
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gtopsis&rank_icon=percentile&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&include_all_commits=true&theme=onedark)
 
