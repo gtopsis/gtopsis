@@ -117,10 +117,9 @@ In my playground here, I try to experiment with awesome technologies and random 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gtopsis&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtopsis&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gtopsis&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtopsis&theme=holi&utcOffset=0)
 
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=gtopsis)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gtopsis&rank_icon=percentile&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&include_all_commits=true&theme=onedark)
 
 Credits: 
 1. https://github-profile-summary-cards.vercel.app/demo.html
