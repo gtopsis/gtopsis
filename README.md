@@ -3,7 +3,7 @@
 <br/>
 
 <h1 align="center" style="color: white">Welcome travelers to my playground <img src="assets/balloon.webp" width="28x"/></h1>
-<h3 align="center" style="color: white">I'm Giorgos, a software engineer from Greece playing with the web technologies.</h3>
+<h3 align="center" style="color: white">I'm Giorgos, a software engineer from Greece playing with the following web technologies. 👇</h3>
 
 <div align="center">
 
